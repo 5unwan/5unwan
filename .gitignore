@@ -1,0 +1,17 @@
+# Node.js 관련 파일 및 디렉토리
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# 빌드 파일
+/dist/
+/build/
+
+/# IDE 및 편집기 관련 파일
+.vscode/
+.idea/
+.DS_Store
+
+# OS 관련 파일
+Thumbs.db
